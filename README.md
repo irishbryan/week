@@ -9,7 +9,7 @@ A React powered calendar that can be used to track events for current week.
 |:---------|
 | [Assignment Instructions](#assignment-instructions) |
 | [Getting Started](#getting-started) |
-| [Submission Overview](#submission-overview) |
+| [Overview](#overview) |
 
 ## Assignment Instructions
 Full instructions can be found in [calendar-widget.pdf](./calendar-widget.pdf).
