@@ -1,6 +1,8 @@
 # Week
 A React powered calendar that can be used to track events for current week.
 
+[![Run on Repl.it](https://repl.it/badge/github/irishbryan/week)](https://repl.it/github/irishbryan/week)
+
 :information_source: Project was created as part of an interview assignment and is provided here for reference only.
 
 ![assignment](https://user-images.githubusercontent.com/311182/49975837-7b5d7d80-fef4-11e8-949a-e14a49af9411.gif)
